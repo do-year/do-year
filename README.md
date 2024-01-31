@@ -1,4 +1,6 @@
-## 👋 Hi, I’m @do-year
+![header](https://capsule-render.vercel.app/api?type=waving&color=747264&height=150&section=header&text=Hello&nbsp;&nbsp;👋&fontColor=EEEDEB&fontSize=50&animation=fadeIn&fontAlignY=55)
+
+## Hi, I’m @do-year
 
 #### 🛠️ Github Stats
 <p>
